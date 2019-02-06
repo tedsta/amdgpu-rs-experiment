@@ -1,0 +1,2 @@
+#[dependencies.core]
+#features = ["panic_immediate_abort"]
